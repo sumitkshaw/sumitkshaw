@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
+![MasterHead](https://i.pinimg.com/originals/84/31/d6/8431d6a80f616f4dffbc81af9787bfbd.gif)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Shaw</h1>
 <h3 align="center">Cloud and Deep Learning Enthusiast. Web Developer.</h3>
