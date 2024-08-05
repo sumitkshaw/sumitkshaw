@@ -13,7 +13,7 @@
 ## 🌐 Connect with Me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/sumitshaw__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitshaw-27m05) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitshaw27) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2300f.svg?logo=kaggle&logoColor=white)](https://kaggle.com/sumitshaw27) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sumitshaw__) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230769AD.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/sumitshaw__) 
