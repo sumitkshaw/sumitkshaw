@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 - 📫 How to reach me: **shawsumit6286@gmail.com**
-- 📈 Interests: "Interested in Machine Learning and AI"
-- 🎮 Hobbies: "Enjoy playing video games ,going gym and coding in my free time"
-- 🌍 Location: "Based in Delhi, India"
+- 📈 Interests: Interested in Machine Learning and AI
+- 🎮 Hobbies: Going gym and coding in my free time
+- 🌍 Location: Based in Delhi, India
 
 ## 🌐 Connect with Me:
 
