@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/84/31/d6/8431d6a80f616f4dffbc81af9787bfbd.gif)
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 , I'm Sumit Kumar Shaw</h1>
