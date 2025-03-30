@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 , I'm Sumit Kumar Shaw</h1>
-<h3 align="center">Cloud and Deep Learning Enthusiast. Web Developer.</h3>
+<h3 align="center">Cloud and Backend Enthusiast</h3>
 <img align="right" alt="cool cat" width="400" src="https://i.pinimg.com/originals/33/9c/fd/339cfd07ba90d9366c676c4349e7ec5c.gif">
 
 ## 👨‍💻 About Me:
