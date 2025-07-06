@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🌱 I’m currently learning **go and spingboot**
+- 🌱 I’m currently learning **go and springboot**
 - 📫 How to reach me: **shawsumit6286@gmail.com**
 - 📈 **Interests**: Interested in Backend, Cloud and ML
 - 🎮 **Hobbies**: Going gym and coding in my free time
