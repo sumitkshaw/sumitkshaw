@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sumitkshaw&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumitkshaw&theme=react&hide_border=true&bg_color=0D1117)
 
 ---
