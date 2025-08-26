@@ -27,9 +27,6 @@
 
 
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitkshaw&theme=react&hide_border=true&bg_color=0D1117)
 
 ---
 
