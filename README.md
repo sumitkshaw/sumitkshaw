@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **go and springboot**
 - 📫 How to reach me: **shawsumit6286@gmail.com**
-- 📈 **Interests**: Interested in Backend, Cloud and ML
+- 📈 **Interests**: Interested in Backend
 - 🎮 **Hobbies**: Going gym and coding in my free time
 - 🌍 **Location**: Based in Delhi, India
 
